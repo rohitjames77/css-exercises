@@ -1,0 +1,26 @@
+.odd-class-1{
+    background-color: hsl(350, 100%, 82%);
+    font-family:Verdana,'DejaVu Sans', sans-serif;
+    }
+#id-type{
+    color: rgb(21, 21, 223);
+    font-size: 36px;
+    font-family:Verdana,'DejaVu Sans', sans-serif;
+}
+.odd-class-3{
+    background-color: hsl(350, 100%, 82%);
+    font-family:Verdana,'DejaVu Sans', sans-serif;
+   font-size: 24px;
+}
+
+#id-type-4{
+    font-family:Verdana,'DejaVu Sans', sans-serif;
+    background-color: rgb(114, 255, 114);
+    font-weight: bold; 
+font-size: 24px;
+
+}
+.class-5{
+background-color: hsl(350, 100%, 82%);
+    font-family:Verdana,'DejaVu Sans', sans-serif;
+}
